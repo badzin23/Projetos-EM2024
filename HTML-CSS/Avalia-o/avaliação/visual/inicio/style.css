@@ -1,0 +1,11 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    margin-top: 80px;
+    background-color: darkkhaki;
+}
+section img{
+    border: 5px solid red;
+    width:21%;
+}
