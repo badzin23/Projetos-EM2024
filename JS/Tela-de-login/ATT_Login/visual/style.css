@@ -1,0 +1,45 @@
+body, html{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.as{
+    justify-content: center;
+    padding-bottom: 0vmin;
+    border-width: 2vmin;
+    border-style:solid;
+    border-radius: 1vmin;
+    width: 80vmin;
+    margin-left:8vmin;
+    background-color: tomato;
+}
+
+#user{
+    height: 30vmin;
+    text-align: center;
+    margin-left: 27vmin;
+    margin-top: 27vmin;
+    margin-bottom: 12vmin;
+}
+
+#login{
+    text-align: center;
+    background-color: tomato;
+}
+
+#entrar{
+    margin-left: 15vmin;
+    height: 10vmin;
+    width: 50vmin;
+    border-radius: 10vmin;
+}
+
+#nome{
+    height: 7vmin;
+    margin-bottom: 10px;
+}
+
+#senha{
+    height: 7vmin;
+}
