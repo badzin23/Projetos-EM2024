@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="pt-BR">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora do javava</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <body>
+        <div>
+        <form action="#" method="post">
+            <div>        
+            <label for="calculo">Selecione o tipo de operação:</label>
+            <select id="calculo"  name = "calculo">
+                <option value="soma">Soma</option>
+                <option value="subtração">Subtração</option>
+                <option value="multiplicação">Multiplicação</option>
+                <option value="divisão">Divisão</option>
+            </select>
+        <div>
+            <label for="p1">Primeiro Numero:</label>
+            <input type="text" id="p1" name="p1" required/>
+        </div>
+        <div>
+            <label for="p2">Segundo Numero:</label>
+            <input type="text" id="p2" name="p2" required/>
+        </div>
+        <button id="resultado" type="button" onclick="calculadora()">resultado</button>
+</body>
+</html>
