@@ -1,0 +1,388 @@
+body{
+    background-color: blue;
+}
+#Retangulo1{
+    background-color: yellow;
+    height: 200px;
+    margin-left: 500px;
+    margin-right: 550px;
+    margin-top: 50px;
+}
+#Meio{
+    display: flex;
+    justify-content: space-between;
+}
+#Quadrado{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#Quadrado1{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado2{
+    background-color: yellow;
+    height: 300px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado3{
+    background-color: yellow;
+    margin-top: 50px;
+    height: 200px;
+    width: 500px;
+    margin-left: 500px;
+}
+#Quadrado4{
+    background-color: yellow;
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+    margin-left: 600px;
+}
+#Alto2{
+    display: flex;
+}
+#Quadrado7{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+#Quadrado5{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado6{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Retangulo2{
+    background-color: yellow;
+    height: 200px;
+    margin-left: 500px;
+    margin-right: 550px;
+    margin-top: 50px;
+}
+#Quadrado8{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 605px;
+}
+#Alto3{
+    display: flex;
+    justify-content: space-between;
+}
+#Quadrado9{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#Quadrado10{
+    background-color: rgb(255, 255, 0);
+    height: 150px;
+    width: 300px;
+    margin-left: 300px;
+}
+#Quadrado11{
+    background-color: yellow;
+    height: 150px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado12{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+#Quadrado13{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado14{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado15{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+#Quadrado16{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado17{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado18{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#Quadrado19{
+    background-color: rgb(255, 255, 0);
+    height: 160px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado20{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado21{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+#Quadrado22{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado23{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado24{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+#Quadrado25{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado26{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado27{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+#Quadrado28{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado29{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado30{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#Quadrado31{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado32{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado33{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 300px;
+    margin-left: 500px;
+}
+#Quadrado34{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado35{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado36{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+#Quadrado37{
+    background-color: yellow;
+    height: 250px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado38{
+    background-color: yellow;
+    height: 250px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado39{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+#Quadrado40{
+    background-color: yellow;
+    height: 150px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado41{
+    background-color: yellow;
+    height: 150px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado42{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+#Quadrado43{
+    background-color: yellow;
+    height: 200px;
+    width: 300px;
+    margin-left: 300px;
+}
+#Quadrado44{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado45{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+#Quadrado46{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#Quadrado47{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#Quadrado48{
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado49{
+    background-color: yellow;
+    height: 300px;
+    width: 200px;
+    margin-left: 300px;
+}
+#Quadrado50{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+#Quadrado51{
+    background-color: yellow;
+    height: 150px;
+    width: 200px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#Quadrado52{
+    background-color: yellow;
+    height: 200px;
+    width: 400px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#Quadrado53{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 306px;
+}
+#Quadrado54{
+    background-color: yellow;
+    height: 300px;
+    width: 200px;
+    margin-left: 306px;
+}
+#Quadrado55{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#Quadrado56{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 306px;
+}
+#Quadrado57{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 306px;
+}
